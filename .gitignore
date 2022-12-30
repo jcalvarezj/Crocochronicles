@@ -1,3 +1,7 @@
+.vscode/
 Library/
 Temp/
 Logs/
+Assembly-CSharp.csproj
+.editorconfig
+omnisharp.json
